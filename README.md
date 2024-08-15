@@ -4,7 +4,7 @@ WRO stands for World Robotics Oylmpiad, and me together with two of my classmate
 
 I know github isn't meant to be used like this, but hey! I'm trying to get tickets for HackClub's Arcade event and I want my free Raspberry Pi.
 
-For more context about why I built the robot as it is, check out the WRO 2024 challenge statement: https://wro-association.org/wp-content/uploads/WRO-2024-RoboMission-
+For more context about why I built the robot as it is, check out the WRO 2024 challenge statement: https://wro-association.org/wp-content/uploads/WRO-2024-RoboMission-Senior.pdf
 
 ### Slight more(?) detailed elaborations on each of these progress logs
 and no, this bit isn't made specifically for hackclub! I just like to log down my thoughts like this, its fun ngl
