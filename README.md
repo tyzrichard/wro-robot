@@ -9,6 +9,8 @@ For more context about why I built the robot as it is, check out the WRO 2024 ch
 ### Slight more(?) detailed elaborations on each of these progress logs
 and no, this bit isn't made specifically for hackclub! I just like to log down my thoughts like this, its fun ngl
 
+The gist of what I achieved for each log:
 1. Over two seperate days, I created the mechanism to collect and stack up the blocks needed to build the houses, no motors attached.
 2. Created the base of the robot with the wheels and EV3 brick and refined the collection mechanism
 3. Refined the collection mechanism even more, attached the two parts together and coded it to move around and interact with blocks.
+4. Designed, tested and built the grabber mechanism at the bottom of the container, so the stuff inside won't fall out when the container was lifted. I also moved some parts to make sure our robot fit the size constraints.
