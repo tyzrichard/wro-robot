@@ -14,3 +14,4 @@ The gist of what I achieved for each log:
 2. Created the base of the robot with the wheels and EV3 brick and refined the collection mechanism
 3. Refined the collection mechanism even more, attached the two parts together and coded it to move around and interact with blocks.
 4. Designed, tested and built the grabber mechanism at the bottom of the container, so the stuff inside won't fall out when the container was lifted. I also moved some parts to make sure our robot fit the size constraints.
+5. Tested and refined the code for the grabber mechanism so it works better, also made a collection U-shape thing to collect the debris.
