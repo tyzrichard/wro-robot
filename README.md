@@ -17,3 +17,4 @@ The gist of what I achieved for each log:
 5. Tested and refined the code for the grabber mechanism so it works better, also made a collection U-shape thing to collect the debris.
 6. Conencted the debris collection system and tried to get it to move around the map, collecting all 4 pieces of debris. (Half Done)
 7. While testing, our group faced inaccuracies due to how our wheel wasn't fastened well, so we decided to reinforce everything.
+8. We decided to redo the robot from scratch to make it more compact.
