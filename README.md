@@ -20,3 +20,4 @@ The gist of what I achieved for each log:
 8. We decided to redo the robot from scratch to make it more compact.
 9. A continuation of the remake. Lots of testing and back-and-forth prototyping.
 10. Finished the base, and attached a redone lifting mechanism on.
+11. Moved the clamping motor to the other side to make it easier to wire up, and troubleshooted the lifting mechanism further.
