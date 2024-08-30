@@ -22,3 +22,4 @@ The gist of what I achieved for each log:
 10. Finished the base, and attached a redone lifting mechanism on.
 11. Moved the clamping motor to the other side to make it easier to wire up, and troubleshooted the lifting mechanism further.
 12. I'm only logging one hour for this, but we actually spent the entire day working on this. For some reason, the motors and wheels we were using caused the robot to have difficulties moving in even a straight line, so we decided to replace everything. Left picture is the one we changed from, right picture is the new one.
+13. Started tweaking the base a bit so that the front bit had more 90 degree angles. Wheels work much better than before.
